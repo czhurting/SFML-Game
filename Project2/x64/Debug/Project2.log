@@ -1,0 +1,12 @@
+﻿  源.cpp
+H:\123\EasyX\Project1\Project2\源.cpp(119,115): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+H:\123\EasyX\Project1\Project2\源.cpp(119,115): warning C4244:         with
+H:\123\EasyX\Project1\Project2\源.cpp(119,115): warning C4244:         [
+H:\123\EasyX\Project1\Project2\源.cpp(119,115): warning C4244:             T=float
+H:\123\EasyX\Project1\Project2\源.cpp(119,115): warning C4244:         ]
+H:\123\EasyX\Project1\Project2\源.cpp(119,90): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+H:\123\EasyX\Project1\Project2\源.cpp(119,90): warning C4244:         with
+H:\123\EasyX\Project1\Project2\源.cpp(119,90): warning C4244:         [
+H:\123\EasyX\Project1\Project2\源.cpp(119,90): warning C4244:             T=float
+H:\123\EasyX\Project1\Project2\源.cpp(119,90): warning C4244:         ]
+  Project2.vcxproj -> H:\123\EasyX\Project1\x64\Debug\Project2.exe
