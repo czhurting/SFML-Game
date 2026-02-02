@@ -1,8 +1,3 @@
-我看到教程里有一堆“函数”
-就纯函数包装
-又是drawboard又是checkwin的
-emmm
-我写的
 #include <graphics.h>
 #include <conio.h>
 #include<Windows.h>
@@ -173,6 +168,5 @@ int main()
 			break;
 		}
 	}
-
 	EndBatchDraw();
 }
